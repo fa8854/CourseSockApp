@@ -1,0 +1,10 @@
+###
+POST http://localhost:8080/api/sock
+Content-Type: application/json
+
+{
+  "colour": "WHITE",
+  "size": "S",
+  "cottonPercent": 50,
+  "quantity": 10
+}
